@@ -9,3 +9,9 @@ Knoppers
 Bounty
 Twix
 Snickers
+
+# add drinks
+Fanta
+Cola
+Water
+Tea
