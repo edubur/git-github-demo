@@ -1,4 +1,3 @@
 Milch
 Kaffee
-Joghurt
-Nudeln
+
